@@ -16,14 +16,6 @@ This project applies **unsupervised machine learning** techniques to segment cus
 
 ---
 
-## 📂 Folder Structure
-
-📦 customer-segmentation-kmeans
-├── Mall_Customers.csv # Dataset (Kaggle)
-├── customer_segmentation.ipynb # Main notebook (Google Colab ready)
-├── segmented_customers.csv # Output with cluster labels
-└── README.md # This file
-
 ## 🛠️ Tools & Libraries Used
 
 - Python
