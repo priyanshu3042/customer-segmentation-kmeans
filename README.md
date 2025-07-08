@@ -36,14 +36,6 @@ This project applies **unsupervised machine learning** techniques to segment cus
 
 ---
 
-## 📈 Visual Output Example
-
-<p align="center">
-  <img src="https://i.imgur.com/1m2hxDf.png" alt="Customer Clustering" width="600">
-</p>
-
----
-
 ## 🧠 Clustering Result Interpretation
 
 - **Cluster 0**: High income, high spenders → Potential loyal customers
