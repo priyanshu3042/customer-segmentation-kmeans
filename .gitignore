@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment & config files
+.env
+.venv/
+env/
+venv/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Colab uploaded files
+uploaded/
+
+# Output and data files
+*.csv
+*.xlsx
+*.log
+
+# Python package metadata
+*.egg-info/
+*.egg
+*.pkl
+*.h5
+
+# IDE settings
+.vscode/
+.idea/
